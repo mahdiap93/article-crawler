@@ -6,12 +6,14 @@ This project is a web scraping tool to extract article data from specified websi
 
 1. Clone the repository.
 2. Install the dependencies:
+    ```pyton
     "pip install -r requirements.txt"
+    ```
 3. Configure the `config.yaml` file with the appropriate settings.
 
 ## Usage
 
 Run the script:
-    python main.py
+    `python main.py`
 
 The data will be saved to `articles_data.xlsx`.
